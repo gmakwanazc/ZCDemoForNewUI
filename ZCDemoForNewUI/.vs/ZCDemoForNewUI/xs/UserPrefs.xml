@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F71D13AF-9A22-44C0-8537-25B25D49EA19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZCDemoForNewUI/ViewModels/FilterPageViewModel.cs">
+    <Files>
+      <File FileName="ZCDemoForNewUI/FilterPage.xaml.cs" Line="65" Column="35" />
+      <File FileName="ZCDemoForNewUI/DashboardPage.xaml" Line="5" Column="18" />
+      <File FileName="ZCDemoForNewUI/FilterPage.xaml" Line="4" Column="18" />
+      <File FileName="ZCDemoForNewUI/DashboardPage.xaml.cs" Line="370" Column="23" />
+      <File FileName="ScnSideMenu/ScnSideMenu/Src/SideBarPanel.cs" Line="31" Column="36" />
+      <File FileName="ScnSideMenu/ScnSideMenu/Src/SideBarPage.cs" Line="93" Column="28" />
+      <File FileName="ZCDemoForNewUI/App.xaml.cs" Line="15" Column="40" />
+      <File FileName="ZCDemoForNewUI.Android/MainActivity.cs" Line="29" Column="40" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/9.0.0-20/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1273" Column="2" />
+      <File FileName="ZCDemoForNewUI/ListPageCommon.xaml" Line="5" Column="1" />
+      <File FileName="ZCDemoForNewUI/ListPageCommon.xaml.cs" Line="629" Column="20" />
+      <File FileName="ZCDemoForNewUI/Model/LeftNavigationData.cs" Line="12" Column="21" />
+      <File FileName="ZCDemoForNewUI/Controls/Accordion.cs" Line="6" Column="34" />
+      <File FileName="ZCDemoForNewUI/Controls/AccordionGrid.cs" Line="37" Column="16" />
+      <File FileName="ZCDemoForNewUI/Controls/AccordionSource.cs" Line="3" Column="34" />
+      <File FileName="ZCDemoForNewUI/Model/LeftNavigationChild.cs" Line="12" Column="52" />
+      <File FileName="ZCDemoForNewUI/ViewModels/FilterPageViewModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ZCDemoForNewUI.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ZCDemoForNewUI.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC4E64DF-CC57-4CF7-86DE-4F4322E2BC99" />
+</Properties>
